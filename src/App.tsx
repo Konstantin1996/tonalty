@@ -43,6 +43,7 @@ function App() {
                 : "N/A"}
             </Button>
           </FlexBoxRow>
+          <p>Version 2.0, deploy test</p>
           <Counter />
           <TransferTon />
           <Jetton />
